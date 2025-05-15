@@ -1,7 +1,9 @@
 # Atividade Avaliativa - Exercícios em C#
 
 ## Integrantes do Grupo
-- Emerson Junior (substituir ou completar com mais nomes, se necessário)
+- Emerson Junior
+- Taynara Mafra
+- Kayo
 
 ## Questões Resolvidas
 1. Validador de Senhas Fortes  
