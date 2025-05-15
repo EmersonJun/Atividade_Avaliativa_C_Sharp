@@ -3,7 +3,7 @@
 ## Integrantes do Grupo
 - Emerson Junior
 - Taynara Mafra
-- Kayo
+- Kayo Henrique
 
 ## Questões Resolvidas
 1. Validador de Senhas Fortes  
