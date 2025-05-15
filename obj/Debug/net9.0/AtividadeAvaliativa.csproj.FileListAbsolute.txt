@@ -1,0 +1,14 @@
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\bin\Debug\net9.0\AtividadeAvaliativa.exe
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\bin\Debug\net9.0\AtividadeAvaliativa.deps.json
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\bin\Debug\net9.0\AtividadeAvaliativa.runtimeconfig.json
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\bin\Debug\net9.0\AtividadeAvaliativa.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\bin\Debug\net9.0\AtividadeAvaliativa.pdb
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\obj\Debug\net9.0\AtividadeAvaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\obj\Debug\net9.0\AtividadeAvaliativa.AssemblyInfoInputs.cache
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\obj\Debug\net9.0\AtividadeAvaliativa.AssemblyInfo.cs
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\obj\Debug\net9.0\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\obj\Debug\net9.0\AtividadeAvaliativa.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\obj\Debug\net9.0\refint\AtividadeAvaliativa.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\obj\Debug\net9.0\AtividadeAvaliativa.pdb
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\obj\Debug\net9.0\AtividadeAvaliativa.genruntimeconfig.cache
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\Atividade_avaliativa_1\AtividadeAvaliativa\obj\Debug\net9.0\ref\AtividadeAvaliativa.dll
